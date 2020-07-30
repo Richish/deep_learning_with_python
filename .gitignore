@@ -1,0 +1,12 @@
+venv/**
+venv
+venv/*
+data/**
+*.h5
+
+*.pyc
+
+*.DS_Store
+.idea/**
+.ipynb_checkpoints/**
+.spyproject
